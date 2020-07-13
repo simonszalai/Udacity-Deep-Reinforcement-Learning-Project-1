@@ -4,15 +4,6 @@ This is the first assignment of Udacity's Deep Reinforcement Learning Nanodegree
 
 ![Trained agent navigates in the environment](trained_agent.gif)
 
-The state space has 37 dimensions and contains the agent's velocity, along with ray-based perception of objects around the agent's forward direction. Given this information, the agent has to learn how to best select actions. Four discrete actions are available, corresponding to:
-
-- 0 - move forward.
-- 1 - move backward.
-- 2 - turn left.
-- 3 - turn right.
-
-The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive episodes.
-
 ## Getting Started
 
 1. After cloning the repository, download the custom Unity enviroment matching your operating system, then copy it to the root folder of this project.
