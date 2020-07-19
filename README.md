@@ -1,7 +1,5 @@
 # Deep Q-Learning for Discrete Control - Udacity DRLND Project 1
 
-## Project Details
-
 This is the first assignment of Udacity's Deep Reinforcement Learning Nanodegree. In this project, the agent has to navigate in a large square world. A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.
 
 ![Trained agent navigates in the environment](trained_agent.gif)
